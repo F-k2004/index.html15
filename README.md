@@ -11,7 +11,7 @@
       transition: background 0.4s, color 0.4s;
     }
 
-    .ontainer {
+    .container {
       text-align: center;
       margin-top: 100px;
     }
